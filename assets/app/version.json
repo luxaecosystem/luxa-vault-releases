@@ -1,0 +1,12 @@
+{
+  "versionCode": 2,
+  "versionName": "1.4.1",
+  "minVersionCode": 1,
+  "apkUrl": "https://raw.githubusercontent.com/luxaecosystem/luxa-vault-releases/main/assets/downloads/LUXA-Vault-1.4.1.apk",
+  "sha256": "343f1a2ea97f5c625560cdb2ef9ede95762d431728de6c155ee235fa784b1286",
+  "sizeBytes": 5389180,
+  "releasedAt": "2026-09-20",
+  "notes": {
+    "en": "First release with automatic updates"
+  }
+}
