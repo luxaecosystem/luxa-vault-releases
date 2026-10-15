@@ -1,12 +1,13 @@
 {
-  "versionCode": 3,
-  "versionName": "1.4.2",
+  "versionCode": 4,
+  "versionName": "1.4.3",
   "minVersionCode": 1,
-  "apkUrl": "https://raw.githubusercontent.com/luxaecosystem/luxa-vault-releases/main/assets/downloads/LUXA-Vault-1.4.2.apk",
-  "sha256": "943ff596be43f22b1c8891c0605120f374199c13101d57afc0ede700d479f793",
-  "sizeBytes": 5389292,
-  "releasedAt": "2026-09-20",
+  "apkUrl": "https://raw.githubusercontent.com/luxaecosystem/luxa-vault-releases/main/assets/downloads/LUXA-Vault-1.4.3.apk",
+  "sha256": "eb226a4b47b198fcfbdb9259239750211580f121a111d244c3ee337003c828ff",
+  "sizeBytes": 6132275,
+  "releasedAt": "2026-10-15",
   "notes": {
-    "en": "Show app version in Settings"
+    "en": "CosmWasm & Stargate signing sync with Chrome extension, official LUXA Vault emblem, security enhancements",
+    "it": "Sincronizzazione firma CosmWasm e Stargate con estensione Chrome, logo ufficiale LUXA Vault, miglioramenti di sicurezza"
   }
 }
