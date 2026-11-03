@@ -2,9 +2,9 @@
   "versionCode": 16,
   "versionName": "1.5.9",
   "minVersionCode": 16,
-  "apkUrl": "https://luxaecosystem.xyz/assets/downloads/Spider-Vault-1.5.9.apk",
-  "sha256": "1760617c409af1512edeb420ac2e7d45284fdbdeddb30c22ed2a6f510af4870f",
-  "sizeBytes": 7703099,
+  "apkUrl": "https://raw.githubusercontent.com/luxaecosystem/luxa-vault-releases/main/assets/downloads/Spider-Vault-1.5.9.apk",
+  "sha256": "8efda374c134e8ff8069dc5ade04b8596b8a8c959f042dbf19a9821f265bf90f",
+  "sizeBytes": 7704255,
   "releasedAt": "2026-11-03",
   "notes": {
     "en": "Official Spider Vault v1.5.9 release: dedicated Fingerprint biometric unlock button, full Cosmos SDK v0.50.10 & CometBFT v0.38.12 parity, direct validator staking dispatch, in-vault AMM swaps, seamless external Chrome redirect, and White Card SSO cross-subdomain authorization.",
