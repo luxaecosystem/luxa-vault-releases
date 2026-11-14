@@ -1,13 +1,13 @@
 {
-  "versionCode": 16,
-  "versionName": "1.5.9",
-  "minVersionCode": 16,
-  "apkUrl": "https://raw.githubusercontent.com/luxaecosystem/luxa-vault-releases/main/assets/downloads/Spider-Vault-1.5.9.apk",
-  "sha256": "8efda374c134e8ff8069dc5ade04b8596b8a8c959f042dbf19a9821f265bf90f",
-  "sizeBytes": 7704255,
-  "releasedAt": "2026-11-03",
+  "versionCode": 21,
+  "versionName": "1.6.4",
+  "minVersionCode": 20,
+  "apkUrl": "https://raw.githubusercontent.com/luxaecosystem/luxa-vault-releases/main/assets/downloads/Spider-Vault-1.6.4.apk",
+  "sha256": "4506b4f1ab5636a49b5837d1a317a9db368d17e040bb15ffcfb279a48ae280c0",
+  "sizeBytes": 7876546,
+  "releasedAt": "2026-11-08",
   "notes": {
-    "en": "Official Spider Vault v1.5.9 release: dedicated Fingerprint biometric unlock button, full Cosmos SDK v0.50.10 & CometBFT v0.38.12 parity, direct validator staking dispatch, in-vault AMM swaps, seamless external Chrome redirect, and White Card SSO cross-subdomain authorization.",
-    "it": "Rilascio ufficiale Spider Vault v1.5.9: pulsante sblocco impronta digitale dedicato, parita' Cosmos SDK v0.50.10 e CometBFT v0.38.12, staking validatori diretto, swap AMM in-vault, reindirizzamento Chrome esterno e autorizzazione SSO White Card."
+    "en": "Official Spider Vault v1.6.4 release: Keplr-parity recovery center, AMM liquidity visualizer, native biometric unlock, Cosmos SDK v0.50 & CometBFT v0.38 consensus synchronization.",
+    "it": "Rilascio ufficiale Spider Vault v1.6.4: centro di recupero stile Keplr, visualizzatore liquidità AMM, sblocco biometrico nativo, sincronizzazione consenso Cosmos SDK v0.50 e CometBFT v0.38."
   }
 }
