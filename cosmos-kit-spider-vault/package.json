@@ -1,0 +1,32 @@
+{
+  "name": "@cosmos-kit/spider-vault",
+  "version": "1.0.0",
+  "description": "Spider Vault sovereign wallet integration for CosmosKit",
+  "author": "LUXA Ecosystem <contact@luxaecosystem.xyz>",
+  "homepage": "https://luxaecosystem.xyz/vault.html",
+  "license": "Apache-2.0",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luxaecosystem/luxa-monorepo",
+    "directory": "wallets/cosmos-kit-spider-vault"
+  },
+  "keywords": [
+    "cosmos",
+    "cosmos-kit",
+    "spider-vault",
+    "luxa",
+    "wallet",
+    "web3",
+    "ibc"
+  ],
+  "peerDependencies": {
+    "@cosmos-kit/core": ">=2.0.0"
+  },
+  "devDependencies": {
+    "@cosmos-kit/core": "^2.19.0",
+    "typescript": "^5.3.3"
+  }
+}
